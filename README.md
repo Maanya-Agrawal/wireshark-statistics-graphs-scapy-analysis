@@ -27,7 +27,7 @@ This project demonstrates network traffic analysis using Wireshark and Scapy. Pa
 * `conversations_stats.py`
   Analyzes communication between IP pairs, including packet counts and time differences
 
-* `exp7capture.pcap`
+* `capture.pcap`
   Network packet capture file used for analysis
 
 * `protocol_hierarchy.csv`
